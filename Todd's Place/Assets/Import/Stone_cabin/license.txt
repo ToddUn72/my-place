@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stone cabin
+* source:	https://sketchfab.com/3d-models/stone-cabin-40e1dfcfabe64a2c9806e82cf15f851b
+* author:	Rashad Ibrahimli (https://sketchfab.com/rashad_ibrahimli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stone cabin" (https://sketchfab.com/3d-models/stone-cabin-40e1dfcfabe64a2c9806e82cf15f851b) by Rashad Ibrahimli (https://sketchfab.com/rashad_ibrahimli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
