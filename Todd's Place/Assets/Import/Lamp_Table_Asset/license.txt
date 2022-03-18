@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamp Table Asset
+* source:	https://sketchfab.com/3d-models/lamp-table-asset-e050ce22a33843e29afbb68518403bd2
+* author:	CGI Jutsu (https://sketchfab.com/yashjethwani212)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamp Table Asset" (https://sketchfab.com/3d-models/lamp-table-asset-e050ce22a33843e29afbb68518403bd2) by CGI Jutsu (https://sketchfab.com/yashjethwani212) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
