@@ -1,0 +1,19 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "1961145682144265055",
+            "Name": "Meadow sounds",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1961145682144265055_meadow_sounds/Cube.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
